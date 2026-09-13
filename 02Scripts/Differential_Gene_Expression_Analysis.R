@@ -430,7 +430,3 @@ genes_root <- read.table("downregulatedRoot.txt", header = FALSE, stringsAsFacto
 
 uncommon_genes_root <- setdiff(genes_uncommon_cdgleaf, genes_root)
 write.table(uncommon_cdg, file = "uncommon_genes_root.txt", sep = "\t", row.names = FALSE, quote = FALSE)
-#s.zumkeller@fz-juelich.de
-https://uni-duesseldorf.sciebo.de/s/A1XymOeU5AB9kNx
-
-Please use this link
