@@ -18,8 +18,9 @@ Main Components
 Repository Structure
 
 .
-├── scripts/               # Analysis and processing scripts
-├── sequence_extraction/   # Sequence extraction code
+├── Scripts/               # Analysis and processing scripts
+├── Sequence_Extraction_Code/   # Sequence extraction code
+├── Parsing_Annotation_Code/   # Code for extracting relevant transcript-level information
 └── README.md              # Project documentation
 
 Workflow
