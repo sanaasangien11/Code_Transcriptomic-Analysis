@@ -9,8 +9,9 @@ The project provides a partially reproducible workflow for processing and explor
 Main Components
 
 * Data Processing – quality control, trimming, alignment and organization of transcriptomic datasets
-* Exploratory Data Analysis (EDA) – statistical summaries, data exploration, and visualization
+* Exploratory Data Analysis – statistical summaries, data exploration, and visualization
 * Sequence Extraction – extraction and processing of relevant nucleotide/transcript sequences
+* Parsing Annotations - Parsing the gff/gtf annotations for relevant transcript information
 * Transcriptomic Analysis – analysis of transcript-level data and biological patterns 
 * Data Visualization – plots and visual summaries of the processed data
 
