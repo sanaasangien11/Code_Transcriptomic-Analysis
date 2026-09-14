@@ -49,7 +49,7 @@ Main packages and tools used in this project may include:
 
 Reproducibility
 
-The code is organized to make the transcriptomic analysis workflow reproducible. Individual notebooks and scripts contain additional information about their respective analyses and required inputs.
+The code is organized to make the transcriptomic analysis workflow reproducible. Some of the parts of the code are reproducible. 
 
 Author
 
